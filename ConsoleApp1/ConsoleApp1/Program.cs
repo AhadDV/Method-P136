@@ -9,9 +9,9 @@
 // return type olmayan method;
 
 // Method Signature
-// 1.return tipi,
-// 2.methodun adi,
-// 3.parametrlerin tipi ve sayi
+// 1.methodun adi,
+// 2.parametrlerin tipi
+// 3.ve parametrlerin sayi
 //void Sum(int num1,int num2)
 //{
 //    Console.WriteLine(num1+num2);
